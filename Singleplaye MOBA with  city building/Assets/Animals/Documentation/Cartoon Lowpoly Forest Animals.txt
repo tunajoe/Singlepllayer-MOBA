@@ -1,0 +1,19 @@
+Cartoon Lowpoly Forest Animals
+
+ 
+
+Requires Unity 2018.2.3f1 or higher.
+
+
+
+Cartoon Lowpoly Forest Animals pack contains 9 stylised animated models of adorable forest animals.
+
+
+The pack includes a prefab of three wise bears, a lonely owl, a proud hawk, a family of hedgehogs and a surprised piglet and 4 different trees.
+the models have walk, jump, fly and idle animations.
+
+the models have unique hand painted textures with a normal map and a roughness map with the sizes of  1024x1024.
+
+They have good model topology with a polycount between 200-1000 polygons. 
+
+You have animation scripts For all the models and animation controllers. If you press 1, 2, 3, 4 you can preview the animations.   

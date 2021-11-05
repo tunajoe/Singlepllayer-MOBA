@@ -1,0 +1,335 @@
+fileFormatVersion: 2
+guid: 7c5757b0c0e2a854b86c8f69c3a9d5ac
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Dad_Hedgehog_Armature.001
+    100002: Ear_L
+    100004: Ear_L_end
+    100006: Ear_R
+    100008: Ear_R_end
+    100010: Head
+    100012: LeftBack_Ctrl
+    100014: LeftBack_Ctrl_end
+    100016: LeftBack_Foot
+    100018: LeftBack_Foot_end
+    100020: LeftBack_FootIK
+    100022: LeftBack_Leg
+    100024: LeftBack_Pole
+    100026: LeftBack_Pole_end
+    100028: LeftFront_Ctrl
+    100030: LeftFront_Ctrl_end
+    100032: LeftFront_Foot
+    100034: LeftFront_Foot_end
+    100036: LeftFront_Leg
+    100038: LeftFront_LegIK
+    100040: LeftFront_Pole
+    100042: LeftFront_Pole_end
+    100044: //RootNode
+    100046: Mom_Hedgehog
+    100048: Nose
+    100050: Nose_end
+    100052: RightBack_Ctrl
+    100054: RightBack_Ctrl_end
+    100056: RightBack_Foot
+    100058: RightBack_Foot_end
+    100060: RightBack_FootIK
+    100062: RightBack_Leg
+    100064: RightBack_Pole
+    100066: RightBack_Pole_end
+    100068: RightFront_Ctrl
+    100070: RightFront_Ctrl_end
+    100072: RightFront_Foot
+    100074: RightFront_Foot_end
+    100076: RightFront_Leg
+    100078: RightFront_LegIK
+    100080: RightFront_Pole
+    100082: RightFront_Pole_end
+    100084: Root
+    100086: Tail
+    100088: Tail_end
+    100090: Mom_Hedgehog_Armature
+    400000: Dad_Hedgehog_Armature.001
+    400002: Ear_L
+    400004: Ear_L_end
+    400006: Ear_R
+    400008: Ear_R_end
+    400010: Head
+    400012: LeftBack_Ctrl
+    400014: LeftBack_Ctrl_end
+    400016: LeftBack_Foot
+    400018: LeftBack_Foot_end
+    400020: LeftBack_FootIK
+    400022: LeftBack_Leg
+    400024: LeftBack_Pole
+    400026: LeftBack_Pole_end
+    400028: LeftFront_Ctrl
+    400030: LeftFront_Ctrl_end
+    400032: LeftFront_Foot
+    400034: LeftFront_Foot_end
+    400036: LeftFront_Leg
+    400038: LeftFront_LegIK
+    400040: LeftFront_Pole
+    400042: LeftFront_Pole_end
+    400044: Mom_Hedgehog
+    400046: //RootNode
+    400048: Nose
+    400050: Nose_end
+    400052: RightBack_Ctrl
+    400054: RightBack_Ctrl_end
+    400056: RightBack_Foot
+    400058: RightBack_Foot_end
+    400060: RightBack_FootIK
+    400062: RightBack_Leg
+    400064: RightBack_Pole
+    400066: RightBack_Pole_end
+    400068: RightFront_Ctrl
+    400070: RightFront_Ctrl_end
+    400072: RightFront_Foot
+    400074: RightFront_Foot_end
+    400076: RightFront_Leg
+    400078: RightFront_LegIK
+    400080: RightFront_Pole
+    400082: RightFront_Pole_end
+    400084: Root
+    400086: Tail
+    400088: Tail_end
+    400090: Mom_Hedgehog_Armature
+    2100000: "mama je\u017Eo"
+    4300000: Mom_Hedgehog
+    7400000: Dad_Hedgehog_Armature.001|ballin
+    7400002: Dad_Hedgehog_Armature.001|ballout
+    7400004: Dad_Hedgehog_Armature.001|idle
+    7400006: Dad_Hedgehog_Armature.001|Roll
+    7400008: Dad_Hedgehog_Armature.001|Walk
+    7400010: Mom_Hedgehog_Armature|ballin
+    7400012: Mom_Hedgehog_Armature|ballin.001
+    7400014: Mom_Hedgehog_Armature|ballout
+    7400016: Mom_Hedgehog_Armature|idle
+    7400018: Mom_Hedgehog_Armature|Roll
+    7400020: Mom_Hedgehog_Armature|Walk
+    9500000: //RootNode
+    13700000: Mom_Hedgehog
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Mom_Hedgehog_Armature|ballin
+      takeName: Mom_Hedgehog_Armature|ballin
+      firstFrame: 0
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Mom_Hedgehog_Armature|ballout
+      takeName: Mom_Hedgehog_Armature|ballout
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Mom_Hedgehog_Armature|idle
+      takeName: Mom_Hedgehog_Armature|idle
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Mom_Hedgehog_Armature|Roll
+      takeName: Mom_Hedgehog_Armature|Roll
+      firstFrame: 0
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Mom_Hedgehog_Armature|Walk
+      takeName: Mom_Hedgehog_Armature|Walk
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
